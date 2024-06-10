@@ -75,3 +75,10 @@ To decrypt the message, the recipient needs the encrypted message, the encoded k
 - **Complexity**: The X-SACKS cipher can be computationally intensive for large messages.
 - **Key Management**: Managing and securely storing the secure key is crucial for the cipher's effectiveness.
 
+### Test
+
+`git clone https://github.com/tcsenpai/xsacks`
+`cd xsacks`
+`python main.py`
+
+Also play around with main.py for examples.
